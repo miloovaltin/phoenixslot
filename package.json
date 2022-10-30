@@ -1,16 +1,16 @@
 {
-"name": "phoenixslot",
-"theme": "phoenix slot",
-"version": "10.7.1",
-"description": "phoenix slot ทางเข้าเว็บพนันเว็บตรง ระบบออโต้ ให้โบนัสเครดิตฟรี",
-"keywords": [
-"phoenix slot",
-"phoenix slot เครดิตฟรี",
-"phoenix slot ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/phoenixslot",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "phoenixslot",
+  "theme": "phoenix slot",
+  "version": "10.8.0",
+  "description": "phoenix slot ทางเข้าเว็บพนันเว็บตรง ระบบออโต้ ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "phoenix slot",
+    "phoenix slot เครดิตฟรี",
+    "phoenix slot ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/phoenixslot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
